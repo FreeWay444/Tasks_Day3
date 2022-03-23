@@ -1,7 +1,7 @@
 package com.company;
 
 public class BankAccount {
-        int Balance;
+        private int Balance;
 
         public BankAccount(){
             Balance=0;
